@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author Ivan
- * @Title: HelloController
+ * @Title: HelloController 测试controller
  * @date 2021/1/2715:36
  */
 @RestController
